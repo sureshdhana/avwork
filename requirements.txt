@@ -1,0 +1,4 @@
+moviepy
+scipy
+numpy
+soundfile
